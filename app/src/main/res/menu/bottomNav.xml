@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item 
+	  	android:id="@+id/homeNav" 
+	  	android:icon="@drawable/selector_home" 
+		  android:title="Home"/>
+		
+    <item
+		  android:id="@+id/favoriteNav"
+		  android:icon="@drawable/selector_favorite" 
+		  android:title="Favorite"/>
+ 
+    <item
+		  android:id="@+id/profileNav"
+		  android:icon="@drawable/selector_profile" 
+		  android:title="Profile"/>
+
+</menu>
