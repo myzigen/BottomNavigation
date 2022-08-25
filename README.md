@@ -1,3 +1,5 @@
 # BottomNavigation
 
-<b>app:labelVisibilityMode="labeled"</b>
+<b>app:labelVisibilityMode=" "</b>
+<p>labeled = menampilkan label</p>
+<p>unlabeled = menyembunyikan label</p>
