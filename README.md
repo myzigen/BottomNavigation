@@ -1,3 +1,3 @@
 # BottomNavigation
 
-app:labelVisibilityMode="labeled"
+<b>app:labelVisibilityMode="labeled"</b>
