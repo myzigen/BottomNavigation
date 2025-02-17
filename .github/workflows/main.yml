@@ -1,4 +1,4 @@
-name: Build & Upload APK to Localhost PHP
+name: Build & Upload APK to Localhost PHP Ksweb
 
 on:
   push:
